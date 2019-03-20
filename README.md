@@ -22,6 +22,13 @@ The repository for the completed code is [here](https://github.com/rockthejvm/ud
 * a helper script `psql.sh` to easily connect to Postgres once started
 * a helper scripte `cqlsh.sh` to easily connect to Cassandra once started
 
+### Start
+
+* Build project
+* run "docker-compose up"
+* run psql.sh to connect to PostGres database
+* run csqlsh.sh to connect to Cassandra datatbase
+
 ### For questions or suggestions
 
 If you have changes to suggest to this repo, either
